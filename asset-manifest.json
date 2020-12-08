@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IntroReact/static/css/main.7def18ed.chunk.css",
+    "main.js": "/IntroReact/static/js/main.8f642811.chunk.js",
+    "main.js.map": "/IntroReact/static/js/main.8f642811.chunk.js.map",
+    "runtime-main.js": "/IntroReact/static/js/runtime-main.17b6d7b6.js",
+    "runtime-main.js.map": "/IntroReact/static/js/runtime-main.17b6d7b6.js.map",
+    "static/js/2.36954196.chunk.js": "/IntroReact/static/js/2.36954196.chunk.js",
+    "static/js/2.36954196.chunk.js.map": "/IntroReact/static/js/2.36954196.chunk.js.map",
+    "static/js/3.4ea1f409.chunk.js": "/IntroReact/static/js/3.4ea1f409.chunk.js",
+    "static/js/3.4ea1f409.chunk.js.map": "/IntroReact/static/js/3.4ea1f409.chunk.js.map",
+    "index.html": "/IntroReact/index.html",
+    "static/css/main.7def18ed.chunk.css.map": "/IntroReact/static/css/main.7def18ed.chunk.css.map",
+    "static/js/2.36954196.chunk.js.LICENSE.txt": "/IntroReact/static/js/2.36954196.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/IntroReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17b6d7b6.js",
+    "static/js/2.36954196.chunk.js",
+    "static/css/main.7def18ed.chunk.css",
+    "static/js/main.8f642811.chunk.js"
+  ]
+}
